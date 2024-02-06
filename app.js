@@ -4,6 +4,7 @@ let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 let muitaCoisa = 'olá mundo!';
+let novoTexto = 'isso ae';
 
 function exibiTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
