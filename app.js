@@ -57,6 +57,7 @@ function limpaCampo() {
     chute.value = '';
 }
 
+//Finalizar o metodo de reiniciar o jogo
 function reiniciaJogo() {
 
 }
